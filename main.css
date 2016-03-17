@@ -3,7 +3,7 @@ html {
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-color: #DFEBED;
+    background-color: #00272B;
     
     height: 100%;
     min-height:100%;
@@ -23,19 +23,20 @@ h1 {
 }
 
 p {
-    color: #497285;
+    color: #114B5F;
+    font-size: 16px;
 }
 
 a {
-    color: #497285;
+    color: #114B5F;
 }
 
 #brand-name {
     width: 100%;
-    background-color: white;
+    background-color: #71F79F;
     padding: 50px;
     text-align: center;
-    color: #497285;
+    color: #4D243D;
     /*  
     Center it in the page based on the middle
     of the text (not the top left corner):
