@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Radley);
+@import url(https://fonts.googleapis.com/css?family=Martel+Sans:300);
+
 html {
     -webkit-font-smoothing: antialiased;    
     -webkit-background-size: cover;
@@ -10,7 +13,7 @@ html {
 }
 
 body {
-    font-family: "Avenir";
+    font-family: 'Martel Sans', sans-serif;
     overflow: hidden; /* no scrolling around off the screen */
     min-height:100%;
 }
