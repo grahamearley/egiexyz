@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Radley);
 @import url(https://fonts.googleapis.com/css?family=Martel+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
 
 html {
     -webkit-font-smoothing: antialiased;    
@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    font-family: 'Radley', serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 8vw;
     letter-spacing: 5px;
     line-height: 1.5;
